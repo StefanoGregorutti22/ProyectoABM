@@ -1,0 +1,63 @@
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\bin\Debug\ABMPersonas.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\bin\Debug\ABMPersonas.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\ABMPersonas\obj\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\Downloads\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Lenovo\Downloads\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Lenovo\Downloads\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Lenovo\Downloads\ABMPersonas\obj\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Program\ABMPersonas\obj\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\obj\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos sin Terminar\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\ABMPersonas\obj\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\bin\Debug\ABMPersonas.exe.config
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\bin\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\bin\Debug\ABMPersonas.pdb
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.frmPersona.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.exe
+C:\Users\Lenovo\OneDrive\Escritorio\Proyectos Progra\Progra I\ABMPersonas\obj\Debug\ABMPersonas.pdb
